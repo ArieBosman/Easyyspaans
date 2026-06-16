@@ -1,4 +1,5 @@
 import random
+import streamlit as st
 
 # EASY-werkwoorden (33 stuks)
 verbs = [

@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="EasySpaans", page_icon="🇪🇸", layout="centered")
 
 st.title("🇪🇸 EasySpaans – Werkwoordentrainer")
-st.write "Train je Spaanse werkwoorden op een rustige, overzichtelijke manier."
+st.write("Train je Spaanse werkwoorden op een rustige, overzichtelijke manier.")
 
 # EASY-werkwoorden (33 stuks)
 verbs = [
